@@ -1,4 +1,4 @@
-````
+
 # 📚 Lista de Exercícios - Triggers, Views e Stored Procedures  
 ### Banco de Dados MySQL
 
