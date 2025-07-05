@@ -1,8 +1,4 @@
-Claro, Amanda! Aqui está o `README.md` **sem os INSERTs**, prontinho pra você copiar:
-
----
-
-````markdown
+````
 # 📚 Lista de Exercícios - Triggers, Views e Stored Procedures  
 ### Banco de Dados MySQL
 
